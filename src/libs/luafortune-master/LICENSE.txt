@@ -1,0 +1,4 @@
+<jonjmaa@gmail.com> wrote this library.  As long as you include a namedrop
+you can do whatever you want with this stuff. If we meet some day, and you
+think this stuff is worth it, you can buy me a beer in return.
+- Jon Michael Aanes
